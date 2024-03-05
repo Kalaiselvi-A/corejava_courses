@@ -11,6 +11,8 @@ public class Sample {
 		b = sc.nextInt();
 		c= a+b;
 		System.out.println("Addition of a = "+a+" and b = "+b+" is : "+c);
+		c= a-b;
+		System.out.println("Subtraction of a = "+a+" and b = "+b+" is : "+c);
 		
 	}
 
