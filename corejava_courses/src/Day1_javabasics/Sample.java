@@ -1,4 +1,4 @@
-package javabasics;
+package Day1_javabasics;
 import java.util.*;
 
 public class Sample {
