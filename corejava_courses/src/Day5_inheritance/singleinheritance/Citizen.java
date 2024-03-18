@@ -1,3 +1,4 @@
+//Base Class of Student
 package Day5_inheritance.singleinheritance;
 
 public class Citizen {

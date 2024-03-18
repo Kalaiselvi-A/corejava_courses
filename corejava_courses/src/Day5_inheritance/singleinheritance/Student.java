@@ -1,3 +1,4 @@
+//Derived Class of Citizen
 package Day5_inheritance.singleinheritance;
 
 public class Student extends Citizen {
