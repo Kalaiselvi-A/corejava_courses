@@ -1,4 +1,4 @@
-//Student Entity Class
+//Student Entity Class - ArrayObjectMain
 
 package Day10_array;
 
