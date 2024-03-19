@@ -13,6 +13,7 @@ public class ArrayClassMain {
 		Arrays.sort(arr); //Sorting - arrays.sort()
 		System.out.println("\nSorted Array : " + Arrays.toString(arr));
 		
+		
 		int key = 66;
 		System.out.println();
 		System.out.println(key + " at index = " + Arrays.binarySearch(arr, key));
