@@ -1,7 +1,6 @@
 // to demonstrate object class
 
 package Day9_String;
-
 class Sample {
 	
 }
@@ -35,7 +34,5 @@ public class ObjectClassMain {
 		d= null;
 		System.gc();
 		System.out.println(d1);
-
 	}
-
 }
