@@ -22,3 +22,12 @@ public class SimpleScanner {
 	}
 
 }
+/*
+ * Write a java program to get all your details like your Full name with
+ * Initial, roll number ,Grade and percentage. 
+ * Sample Input: 				Sample Output:
+ * 	 Ayan S 						Ayan S 
+ * 	 5220365 						5220365 
+ * 	 A 								A 
+ * 	 9.5% 							9.5%
+ */
